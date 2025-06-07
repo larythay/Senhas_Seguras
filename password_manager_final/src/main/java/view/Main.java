@@ -9,6 +9,7 @@ import java.util.*;
  * Classe principal do sistema de Gerenciador de Senhas.
  * Responsável pela interface de linha de comando, autenticação inicial e menu de operações.
  */
+
 public class Main {
     private static final Scanner scanner = new Scanner(System.in);
     private static final List<Credential> credentials = new ArrayList<>();

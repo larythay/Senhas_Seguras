@@ -1,5 +1,10 @@
-C:\Users\aliso\Downloads\password_manager_entrega_final\src\main\java\model\Credential.java
-C:\Users\aliso\Downloads\password_manager_entrega_final\src\main\java\model\User.java
-C:\Users\aliso\Downloads\password_manager_entrega_final\src\main\java\service\AuthManager.java
-C:\Users\aliso\Downloads\password_manager_entrega_final\src\main\java\util\HashUtil.java
-C:\Users\aliso\Downloads\password_manager_entrega_final\src\main\java\view\Main.java
+C:\Users\Educação\Downloads\password_manager_final\password_manager_final\src\main\java\model\Credential.java
+C:\Users\Educação\Downloads\password_manager_final\password_manager_final\src\main\java\model\User.java
+C:\Users\Educação\Downloads\password_manager_final\password_manager_final\src\main\java\util\AuthManager.java
+C:\Users\Educação\Downloads\password_manager_final\password_manager_final\src\main\java\util\CryptoUtil.java
+C:\Users\Educação\Downloads\password_manager_final\password_manager_final\src\main\java\util\HashUtil.java
+C:\Users\Educação\Downloads\password_manager_final\password_manager_final\src\main\java\util\LeakChecker.java
+C:\Users\Educação\Downloads\password_manager_final\password_manager_final\src\main\java\util\PasswordGenerator.java
+C:\Users\Educação\Downloads\password_manager_final\password_manager_final\src\main\java\util\PersistenceUtil.java
+C:\Users\Educação\Downloads\password_manager_final\password_manager_final\src\main\java\util\TOTPUtil.java
+C:\Users\Educação\Downloads\password_manager_final\password_manager_final\src\main\java\view\Main.java

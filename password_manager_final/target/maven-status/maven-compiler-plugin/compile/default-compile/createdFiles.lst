@@ -1,2 +1,10 @@
-model\User.class
+util\PasswordGenerator.class
+util\PersistenceUtil.class
 model\Credential.class
+util\LeakChecker.class
+view\Main.class
+util\CryptoUtil.class
+util\TOTPUtil.class
+model\User.class
+util\HashUtil.class
+util\AuthManager.class
